@@ -1,0 +1,32 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "category",
+      "label": "architecture",
+      "items": [
+        "architecture/architecture"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "device-management",
+      "items": [
+        "device-management/device-management"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "rdk-camera-architecture",
+      "items": [
+        "rdk-camera-documentation/rdk-camera-architecture/rdk-camera-architecture"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "rdk-camera-documentation",
+      "items": [
+        "rdk-camera-documentation/rdk-camera-documentation"
+      ]
+    }
+  ]
+}
